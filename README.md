@@ -153,8 +153,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-
----
-
-Want me to create a matching `LICENSE`, `requirements.txt`, and `.desktop` file too?
-
