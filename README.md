@@ -1,33 +1,33 @@
-# 🛡️ File Encryptor GUI
+#  File Encryptor GUI
 
 A simple, secure, and cross-platform file encryption and decryption tool built with Python and Tkinter.
 
-> 🔐 Encrypt any file using a password-based encryption algorithm.  
-> 💻 Minimal GUI without external UI dependencies.  
-> 🧠 Password strength checker built-in.  
+>  Encrypt any file using a password-based encryption algorithm.  
+>  Minimal GUI without external UI dependencies.  
+>  Password strength checker built-in.  
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![image](https://github.com/user-attachments/assets/7faaee24-b850-487f-8c4e-6abeb6a2368e)
 
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 **AES-level encryption** using [cryptography](https://cryptography.io/en/latest/) and Fernet (symmetric encryption)
-- 🔑 **Password-based key derivation (PBKDF2 + SHA256 + Salt)**
-- 📊 **Real-time password strength meter**
-- 📁 File selection with built-in file dialog
-- 👩‍💻 Cross-platform GUI with native `tkinter` (no `customtkinter`, no `tkinterDnD`)
-- 🔁 Encrypt or decrypt any type of file
-- 💬 Simple error messages and friendly alerts
+-  **AES-level encryption** using [cryptography](https://cryptography.io/en/latest/) and Fernet (symmetric encryption)
+-  **Password-based key derivation (PBKDF2 + SHA256 + Salt)**
+-  **Real-time password strength meter**
+-  File selection with built-in file dialog
+-  Cross-platform GUI with native `tkinter` (no `customtkinter`, no `tkinterDnD`)
+-  Encrypt or decrypt any type of file
+-  Simple error messages and friendly alerts
 
 ---
 
-## 🧠 How it Works
+##  How it Works
 
 1. You select a file and enter a password.
 2. The password is **securely converted into an encryption key** using:
@@ -40,7 +40,7 @@ A simple, secure, and cross-platform file encryption and decryption tool built w
 
 ---
 
-## 🧹 Tech Stack
+##  Tech Stack
 
 - **Python 3.8+**
 - `tkinter` (built-in)
@@ -48,9 +48,9 @@ A simple, secure, and cross-platform file encryption and decryption tool built w
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🔧 Requirements
+###  Requirements
 
 - Python 3.8+
 - `cryptography` module
@@ -61,7 +61,7 @@ pip install cryptography
 
 ---
 
-## 💻 Running the App
+##  Running the App
 
 ```bash
 python file_encryptor_gui.py
@@ -69,9 +69,9 @@ python file_encryptor_gui.py
 
 ---
 
-## 📆 Packaging Options
+##  Packaging Options
 
-### 🐧 Linux `.AppImage`
+###  Linux `.AppImage`
 
 1. Build standalone executable:
    ```bash
@@ -97,7 +97,7 @@ python file_encryptor_gui.py
 
 ---
 
-### 🩟 Windows `.exe`
+###  Windows `.exe`
 
 On Windows:
 
@@ -114,7 +114,7 @@ pyinstaller --onefile --noconsole --windowed file_encryptor_gui.py
 
 ---
 
-## 🔐 Security Note
+##  Security Note
 
 - This tool uses:
   - AES-128 encryption via `Fernet`
@@ -125,7 +125,7 @@ pyinstaller --onefile --noconsole --windowed file_encryptor_gui.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -140,14 +140,14 @@ pyinstaller --onefile --noconsole --windowed file_encryptor_gui.py
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Rupak**  
-🔗 GitHub: [@rupak1005](https://github.com/rupak1005)
+ GitHub: [@rupak1005](https://github.com/rupak1005)
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
