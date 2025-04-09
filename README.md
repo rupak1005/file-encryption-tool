@@ -8,6 +8,11 @@ A simple, secure, and cross-platform file encryption and decryption tool built w
 
 ---
 
+
+
+##  Live Link : https://file-encryption-tool.streamlit.app/
+
+
 ##  Preview
 
 ![image](https://github.com/user-attachments/assets/7faaee24-b850-487f-8c4e-6abeb6a2368e)
