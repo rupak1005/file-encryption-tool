@@ -15,6 +15,9 @@ A simple, secure, and cross-platform file encryption and decryption tool built w
 
 ##  Preview
 
+![image](https://github.com/user-attachments/assets/31768327-a925-454c-b761-56d859979108)
+
+
 ![image](https://github.com/user-attachments/assets/7faaee24-b850-487f-8c4e-6abeb6a2368e)
 
 
